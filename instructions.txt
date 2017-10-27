@@ -1,0 +1,15 @@
+URL of homepage is:
+http://www.deakin.edu.au/~npantin/index.php
+
+Prefered browser: Google Chrome or Mozilla
+
+Username for admin access is : admin
+Password for admin is : admin
+
+Username for guest access is: guest	
+Password for guest is : guest
+
+Alternate details for guest access:
+username :james
+password : comey 
+
